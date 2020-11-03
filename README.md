@@ -3,4 +3,4 @@ A countdown timer that alternates between work and break periods. This was a pro
 
 I struggled with the setInterval for the countdown.
 
-Check the demo.
+[Check the demo](https://ssof1.csb.app/).
